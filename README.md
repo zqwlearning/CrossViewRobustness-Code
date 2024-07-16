@@ -84,7 +84,11 @@ enhanced_image = cv2.merge((clahe_b, clahe_g, clahe_r))
         </strong>
     </p>
 </div>
-## Datasets / Benchmarks
+
+
+
+
+## Datasets/Benchmarks
 
 See **datasets** folder for some examples.
 
